@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "464685371820",
+    "project_id": "gameon-2c1c4",
+    "storage_bucket": "gameon-2c1c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464685371820:android:3f3af6f848a43e06f46a09",
+        "android_client_info": {
+          "package_name": "uk.armago.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464685371820-hnt90ajvcb0jeupfd6lonlmbt5i4o1eb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.armago.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "464685371820-gsg5kknejjjvu7af54iuclp2ck86c5h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB6V-UHWscUYr4RtMqDA8NJC7L2GVUu_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464685371820-gsg5kknejjjvu7af54iuclp2ck86c5h1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "464685371820-b1mh4iq4tvrmmrmbjjr4mrufjchmtqp5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "uk.armago.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
